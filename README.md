@@ -1,0 +1,1 @@
+This is the final coursework for Saketh Marrapu's and Isaac Martinez's STAT 482 capstone project. The final report is in the main directory under Capstone Final Report and Capstone Slides. The code for the safety and time sections of the analyses are in their respective folders as they were done by me (Saketh).
